@@ -1,6 +1,6 @@
 package cn.kizzzy.har;
 
-public class PageTiming {
+public class PageTimings {
     public double onContentLoad;
     public double onLoad;
     public String comment;
